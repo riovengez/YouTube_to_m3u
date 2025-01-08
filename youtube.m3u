@@ -570,7 +570,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Livecam" tvg-logo="" tvg-id="", Michael Weiss Street Brasov - Pilvax Restaurant & Wine Bar
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1736392696/ei/mOt-Z-fNM_WK2_gPrvnsWQ/ip/172.183.107.21/id/G05wmWFDtSo.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51340657/txs/51340226%2C51340657/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/x-caUPgI-Jzw7JjYP6Y7yDgpidMXj0rQastydAFX6zgobq4ZkMVTS2MpZfzZcYU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353497%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgcPM6WwPncA1BFgkBxRy2KIur6gU3el9rSVCrEONq-jMCIBcmmX71b1JArxFz1Pt9axggeS5rFC7Xhoh8y9p2SBNj/file/index.m3u8
 
 #EXTINF:-1 group-title="Romania" tvg-logo="" tvg-id="", Angelus TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
