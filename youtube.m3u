@@ -510,7 +510,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Alishan Eryanping Trail
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1744255045/ei/5eP2Z5mbNcuBkucP9M6f6Q0/ip/20.42.49.179/id/j2L_559nCjc.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51442270/txs/51442265%2C51442266%2C51442267%2C51442268%2C51442269%2C51442270/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcM9XQZN4J1x3bSUlznXjgwTY_EtRKcUw_EmPXbmNXdSWYhQzoZ0n9p7dG3IPvmZCyNxeZ5halJG/spc/_S3wKsMs5Etyq9_FawKfJ71UydVYijgXy_evXt3mUj2IQWqH8D-MQNXKvASNXB4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51435733/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJuigkwwEPkhbo3A0aLQSOSd-2oLzZUdJ9PD7EXuA4BCAiBJb0aVzSp9W6GjDfpx1vzEw03kM4aPFA3VLce4X6K6mw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Alishan Taiping Suspension Bridge
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
