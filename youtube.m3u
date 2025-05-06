@@ -375,7 +375,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", Taiwan TTV News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746577741/ei/7VQaaIyoJseKsfIP7uWf8QY/ip/52.234.47.211/id/xL0ch83RAK8.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAb9ChRst7K00bXouBRcgz3bpZQ0N7KwAlO9F58UjnplXoRGgPdnr3jfzheGcwCjDnGQ09urj77D/spc/wk1kZuuN8A__XYiQWfstlEK7VO5nrghGwvj9S0x075paqGEo2Hzu__bVwsiUiPY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOhGUJsPPy5hqCe5yChsotD61Gsuq69D7Ksr4l5is6l-AiEA9zjMket0GCNiH8W8Gh5w1Komgalf0PNhDsnjfOZmjUA%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", SET Live News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
