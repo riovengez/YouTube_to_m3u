@@ -12,7 +12,7 @@
 
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", Kompas TV Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1757982400/ei/X1rIaPadO72W2_gPwbDhyQM/ip/128.24.160.243/id/DOOrIxw5xOw.83/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLMK7w7yoXyvmuAUQLwWzSJ1-dxHusnQwDmxQvroSYI3CZFWIsZdVLX7RJMSMIpMhfxWiWnhGd2q/spc/l3OVKeIBLBlyNtgvNJ3G7fMY1XhxfeWYvHJ3az08ycDy0LvNdQHS0RHutgT3n3qWvMs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAO8OTo3wgaNgOEvHv4iXg3FfneqCyem6aW1LeRJnJyPSAiEA5MvSlzGMqaQdUL2XCSQz1WMbT4c2jJlDVz2GQP8JzRQ%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", Kompas TV Live 2
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
