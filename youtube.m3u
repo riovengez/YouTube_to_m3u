@@ -15,4 +15,133 @@
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", Kompas TV Live 2
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1777047692/ei/LETraZ76FNKizPsPgrDh-Qw/ip/86.107.43.88/id/DOOrIxw5xOw.236/itag/91/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D139/sgovp/gir%3Dyes%3Bitag%3D160/rqh/1/hls_chunk_host/rr4---sn-4g5lzned.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AUUZDGL_5O3qYgiBoZkHEexapvKI_RoYt20jRGom4bevjLN8yUtOnRsmT3pMFg8KyQlS9quLjKqhAxLB/spc/jlWavRZaQJUKrp67MOeQEOBHMLE7xfG8lSKPm0LQOFG4RuKkbu3KJcDtOH1oQUcUOaLiAw/vprv/1/ns/03heVTx0NUbLUBGWpNyhYz8U/reg/0/playlist_type/DVR/met/1777026213,/mh/nm/mm/44/mn/sn-4g5lzned/ms/lva/mv/u/mvi/4/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681,51869322/n/xpGwhWNsCb5ATPN/mt/1777025961/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,ns,reg,playlist_type/sig/AHEqNM4wRAIgKvXRpH4V9RoZEBtQRnZvwNGiduWratff-buJhA1lJckCIEynfPWdtRIL3saEc9N6Nn2QO1LZpAW7p1zw4cPkoXKu/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgbqVm35116p5YxJldv0MPKznlV6DZo8-P6nUCPZjugHoCIC1ju3Vbv4bxtuivenBtHsb_Jjc20aejoY0F_VJ45H-m/playlist/index.m3u8
+https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif");*/
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: -1;
+  opacity: 0.02;
+}
+
+.overlay {
+  pointer-events: none;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: repeating-linear-gradient(180deg, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0.3) 50%, rgba(0, 0, 0, 0) 100%);
+  background-size: auto 4px;
+  z-index: 1;
+}
+
+.overlay::before {
+  content: "";
+  pointer-events: none;
+  position: absolute;
+  display: block;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient(0deg, transparent 0%, rgba(32, 128, 32, 0.2) 2%, rgba(32, 128, 32, 0.8) 3%, rgba(32, 128, 32, 0.2) 3%, transparent 100%);
+  background-repeat: no-repeat;
+  -webkit-animation: scan 7.5s linear 0s infinite;
+          animation: scan 7.5s linear 0s infinite;
+}
+
+@-webkit-keyframes scan {
+  0% {
+    background-position: 0 -100vh;
+  }
+  35%, 100% {
+    background-position: 0 100vh;
+  }
+}
+
+@keyframes scan {
+  0% {
+    background-position: 0 -100vh;
+  }
+  35%, 100% {
+    background-position: 0 100vh;
+  }
+}
+.terminal {
+  box-sizing: inherit;
+  position: absolute;
+  height: 100%;
+  width: 1000px;
+  max-width: 100%;
+  padding: 4rem;
+  text-transform: uppercase;
+}
+
+.output {
+  color: rgba(128, 255, 128, 0.8);
+  text-shadow: 0 0 1px rgba(51, 255, 51, 0.4), 0 0 2px rgba(255, 255, 255, 0.8);
+}
+
+.output::before {
+  content: "> ";
+}
+
+/*
+.input {
+  color: rgba(192, 255, 192, 0.8);
+  text-shadow:
+      0 0 1px rgba(51, 255, 51, 0.4),
+      0 0 2px rgba(255, 255, 255, 0.8);
+}
+
+.input::before {
+  content: "$ ";
+}
+*/
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+a::before {
+  content: "[";
+}
+
+a::after {
+  content: "]";
+}
+
+.errorcode {
+  color: white;
+}
+</style>
+
+</head>
+<body>
+
+<div class="noise"></div>
+<div class="overlay"></div>
+<div class="terminal">
+  <h1>Error <span class="errorcode">503 - Service Unavailable</span></h1>
+  <p class="output">Cand intalniti eroarea 503, inseamna ca ceva a impiedicat un browser sa acceseze site-ul.<br>
+  <br>
+503 inseamna ca pagina dvs. este online si ruleaza insa aceasta nu poate fi accesata in momentul respectiv.<br>
+<br>
+Eroarea 503 poate aparea in mai multe moduri:<br>
+<br>
+– 503 Service Unavailable<br>
+– 503 Service Temporarily Unavailable<br>
+– HTTP Server Error 503<br>
+– HTTP Error 503<br>
+– Error 503 Service Unavailable<br>
+– The server is temporarily unable to service your request due to maintenance downtime or capacity problems. Please try again later.<br>
+<br>
+Pentru a ajunge la cauza principala a erorii 503, va trebui sa urmati acesti pasi pentru a remedia problema:<br>
+<br>
+– Dezactivați temporar pluginurile<br>
+– Dezactivati tema<br>
+– Dezactivati CDN-ul si CloudFlare daca este cazul<br>
+– Verificati/mariti resursele alocate<br>
+– Verificati logurile de eroare pentru mai multe informatii<br>
+– Verificati fisierul .htaccess<br>
+</p>
+  <p class="output">Va rugam sa incercati sa reveniti la pagina de pornire : anym3u8player.com/youtube.php/id/68865bd83d955.m3u8
